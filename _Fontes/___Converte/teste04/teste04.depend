@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591235030 source:c:\mega\i_f_s_c_docente\2020_i\alg_prog_t1\listas_exercicios_git\_fontes\___converte\teste04\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
